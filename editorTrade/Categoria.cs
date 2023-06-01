@@ -15,5 +15,5 @@ public class Categoria
 
     public int Id { get; set; }
     public string Titulo { get; set; } = null!;
-    public List<CategoriaItem>? CategoriaItem { get; set; }
+    public List<CategoriaItem> CategoriaItem { get; set; }
 }

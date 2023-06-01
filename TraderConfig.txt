@@ -1303,145 +1303,6 @@
 		MUSTANG_Doors_hood_rust ,				*,		250,	100	
 		MUSTANG_Doors_trunk_rust,				*,		250,	100	
 		MUSTANG_Wheel,							*,		250,	100	
-	
-	<Category> ZIL130
-		ZIL130,								*,		100000,    10000
-		ZIL130_green,						*,		100000,    10000
-		ZIL130_rust,						*,		100000,    10000
-		ZIL130_green_rust,					*,		100000,    10000
-		ZIL130Kung,							*,		100000,    10000
-		ZIL130Kung_green,					*,		100000,    10000
-		ZIL130Kung_rust,					*,		100000,    10000
-		ZIL130Kung_green_rust,				*,		100000,    10000
-		ZIL130_REFILL,						*,		100000,    10000
-		ZIL130_REPAIR,						*,		100000,    10000
-		
-	<Category>Parts UAZ469
-		UAZ469_doors_Driver,                                              		*, 			500, 		100
-		UAZ469_Doors_coDriver,                                            		*, 			500, 		100
-		UAZ469_doors_cargo1,                                              		*, 			500, 		100
-		UAZ469_doors_cargo2,                                              		*, 			500, 		100
-		UAZ469_doors_hood ,                                               		*, 			500, 		100
-		UAZ469_doors_trunk,                                               		*, 			500, 		100
-		UAZ469_doors_Driver_rust,                                         		*, 			500, 		100
-		UAZ469_Doors_coDriver_rust,                                       		*, 			500, 		100
-		UAZ469_doors_cargo1_rust,                                         		*, 			500, 		100
-		UAZ469_doors_cargo2_rust,                                         		*, 			500, 		100
-		UAZ469_doors_hood_rust ,                                          		*, 			500, 		100
-		UAZ469_doors_trunk_rust,                                          		*, 			500, 		100
-		UAZ469_doors_Driver_camo1,                                        		*, 			500, 		100
-		UAZ469_Doors_coDriver_camo1,                                      		*, 			500, 		100
-		UAZ469_doors_cargo1_camo1,                                        		*, 			500, 		100
-		UAZ469_doors_cargo2_camo1,                                        		*, 			500, 		100
-		UAZ469_doors_hood_camo1 ,                                         		*, 			500, 		100
-		UAZ469_doors_trunk_camo1,                                         		*, 			500, 		100
-		UAZ469_doors_Driver_black,                                        		*, 			500, 		100
-		UAZ469_Doors_coDriver_black,                                      		*, 			500, 		100
-		UAZ469_doors_cargo1_black,                                        		*, 			500, 		100
-		UAZ469_doors_cargo2_black,                                        		*, 			500, 		100
-		UAZ469_doors_hood_black ,                                         		*, 			500, 		100
-		UAZ469_doors_trunk_black,                                         		*, 			500, 		100
-		UAZ469tent_rust,                                         				*, 			500, 		100
-		UAZ469tent_black,                                         				*, 			500, 		100
-		UAZ469tent_camo1,                                         				*, 			500, 		100
-		UAZ469tent,                                         					*, 			500, 		100	
-		UAZ469_Wheel,                                         					*, 			500, 		100
-		UAZ469_Wheel,                                         					*, 			500, 		100
-		UAZ469_Wheel,                                         					*, 			500, 		100
-		UAZ469_Wheel,                                         					*, 			500, 		100
-		UAZ469_Wheel,                                         					*, 			500, 		100
-	
-	
-		
-	<Category> /* 1 */ ZIL130 		
-		ZIL130_Doors_hood,						*,		250,	100	
-		ZIL130_Doors_Driver,					*,		250,	100	
-		ZIL130_Doors_coDriver,					*,		250,	100	
-		ZIL130_Doors_trunk,						*,		250,	100	
-		ZIL130_tent,							*,		250,	100	
-		
-	<Category>/* 2 */ ZIL130_green
-		ZIL130_Doors_hood_green,				*,		250,	100	
-		ZIL130_Doors_Driver_green,				*,		250,	100	
-		ZIL130_Doors_coDriver_green,			*,		250,	100	
-		ZIL130_Doors_trunk_green,				*,		250,	100	
-		ZIL130_tent_green,						*,		250,	100	
-
-		
-	<Category>/* 3 */ ZIL130_rust
-		ZIL130_Doors_hood_rust,							*,		250,	100	
-		ZIL130_Doors_Driver_rust,						*,		250,	100	
-		ZIL130_Doors_coDriver_rust,						*,		250,	100	
-		ZIL130_Doors_trunk_rust,						*,		250,	100	
-		ZIL130_tent_rust,								*,		250,	100	
-
-	<Category>/* 4 */ ZIL130_green_rust 
-		ZIL130_Doors_hood_green_rust ,					*,		250,	100	
-		ZIL130_Doors_Driver_green_rust ,				*,		250,	100	
-		ZIL130_Doors_coDriver_green_rust ,				*,		250,	100	
-		ZIL130_Doors_trunk_green_rust ,					*,		250,	100	
-		ZIL130_tent_green_rust ,						*,		250,	100	
-
-
-	<Category>/* 5 */ ZIL130Kung 
-		ZIL130_Doors_hood,						*,		250,	100	
-		ZIL130_Doors_Driver,						*,		250,	100	
-		ZIL130_Doors_coDriver,						*,		250,	100	
-		ZIL130_Doors_cargo1,						*,		250,	100	
-		ZIL130_Doors_cargo2,						*,		250,	100	
-		ZIL130_Doors_cargo3,						*,		250,	100	
-		ZIL130_Doors_cargo4,						*,		250,	100	
-		
-	<Category>/* 6 */ ZIL130Kung_green
-		ZIL130_Doors_hood_green,						*,		250,	100	
-		ZIL130_Doors_Driver_green,						*,		250,	100	
-		ZIL130_Doors_coDriver_green,					*,		250,	100	
-		ZIL130_Doors_cargo1_green,						*,		250,	100	
-		ZIL130_Doors_cargo2_green,						*,		250,	100	
-		ZIL130_Doors_cargo3_green,						*,		250,	100	
-		ZIL130_Doors_cargo4_green,						*,		250,	100	
-
-		
-	<Category>/* 7 */ ZIL130Kung_rust
-		ZIL130_Doors_hood_rust,							*,		250,	100	
-		ZIL130_Doors_Driver_rust,						*,		250,	100	
-		ZIL130_Doors_coDriver_rust,						*,		250,	100	
-		ZIL130_Doors_cargo1_rust,						*,		250,	100	
-		ZIL130_Doors_cargo2_rust,						*,		250,	100	
-		ZIL130_Doors_cargo3_rust,						*,		250,	100	
-		ZIL130_Doors_cargo4_rust,						*,		250,	100	
-
-	<Category>/* 8 */ ZIL130Kung_green_rust 
-		ZIL130_Doors_hood_green_rust ,						*,		250,	100	
-		ZIL130_Doors_Driver_green_rust ,					*,		250,	100	
-		ZIL130_Doors_coDriver_green_rust ,					*,		250,	100	
-		ZIL130_Doors_cargo1_green_rust ,					*,		250,	100	
-		ZIL130_Doors_cargo2_green_rust,						*,		250,	100	
-		ZIL130_Doors_cargo3_green_rust,						*,		250,	100	
-		ZIL130_Doors_cargo4_green_rust,						*,		250,	100	
-
-		
-	<Category>/* 9 */ ZIL130_REFILL 
-		ZIL130_Wheel,						*,		250,	100	
-		ZIL130_Wheel,						*,		250,	100	
-		ZIL130_Wheel,						*,		250,	100	
-		ZIL130_Wheel2,						*,		250,	100	
-		ZIL130_Wheel2,						*,		250,	100	
-
-	<Category>/* 10 */ ZIL130_REPAIR		
-		ZIL130_Wheel,						*,		250,	100	
-		ZIL130_Wheel,						*,		250,	100	
-		ZIL130_Wheel,						*,		250,	100	
-		ZIL130_Wheel2,						*,		250,	100	
-		ZIL130_Wheel2,						*,		250,	100	
-	
-		
-	
-	
-	
-
-
-
 	<Category>Keys
 		VehicleKeyDuplicate,                                                   K,                   1000,                100
 		VehicleKeyLost,                                                        KL,                  1000,                100
@@ -1485,7 +1346,7 @@
 		BBP_Mesh_Gate_Kit,			*, 10000, -1
 		BBP_Metal_Stair_Kit,		*, 10000, -1	
 		BBP_Triangle_Foundation_Kit,*, 10000, -1			
-		<Category> ==OTHER ITEMS==
+	<Category> ==OTHER ITEMS==
 		BBP_Cement,*, 10000, -1	
 		BBP_Mortar_Mix,*, 10000, -1	
 		BBP_Concrete_Brick_Pile,*, 10000, -1	
@@ -2197,9 +2058,6 @@
 		CP_CannabisBrickS1,						1,		   -1,		20000
 		CP_CannabisBrickNomad,					1,		   -1,		20000
 		CP_CannabisBrickBlackFrost,				1,		   -1,		20000				
-
-
-
 <Trader>Helicopteros ADMIN // ID=12
 	<Category>Helicopteros
 		Heliblack_hawk_SIB,                                                    V,                   1,                   -1
@@ -2413,7 +2271,6 @@
 		Kraz6322_Tent_Camo, 													*, 					1, 					-1
 		Kraz6322_Tent_WinterCamo, 												*, 					1, 					-1
 		Kraz6322_Tent_DarkGray, 												*, 					1, 					-1
-	// RUSSOS
 	<Category>Niva2329
 		Niva2329,                                                              V,                   1,                   -1
 		Niva2329_camo,                                                         V,                   1,                   -1
@@ -2527,245 +2384,6 @@
 		UAZ_31519_Police_doors_cargo2,                                         V,                   1,                   -1
 		UAZ_31519_Police_doors_trunk,                                          V,                   1,                   -1
 		UAZ_31519_Police_doors_hood,                                           V,                   1,                   -1
-	<Category>Mercedes_G4_W31
-		Mercedes_G4_W31,                                                       V,                   1,                   -1
-		Mercedes_G4_W31_Wheel,                                                 V,                   1,                   -1
-		Mercedes_G4_W31_doors_driver,                                          V,                   1,                   -1
-		Mercedes_G4_W31_doors_codriver,                                        V,                   1,                   -1
-		Mercedes_G4_W31_doors_cargo1,                                          V,                   1,                   -1
-		Mercedes_G4_W31_doors_cargo2,                                          V,                   1,                   -1
-		Mercedes_G4_W31_doors_trunk,                                           V,                   1,                   -1
-		Mercedes_G4_W31_doors_hood,                                            V,                   1,                   -1
-	<Category>UAZ_469_Hunter
-		UAZ_469_Hunter,                                                        V,                   1,                   -1
-		UAZ_469_Hunter_wheel,                                                  V,                   1,                   -1
-		UAZ_469_Hunter_doors_driver,                                           V,                   1,                   -1
-		UAZ_469_Hunter_doors_codriver,                                         V,                   1,                   -1
-		UAZ_469_Hunter_doors_cargo1,                                           V,                   1,                   -1
-		UAZ_469_Hunter_doors_cargo2,                                           V,                   1,                   -1
-	<Category>UAZ_27722
-		UAZ_27722_mchs,                                                        V,                   1,                   -1
-		UAZ_27722_ambulancia,                                                  V,                   1,                   -1
-		UAZ_27722_mchs_wheel,                                                  V,                   1,                   -1
-		UAZ_27722_mchs_doors_driver,                                           V,                   1,                   -1
-		UAZ_27722_mchs_doors_codriver,                                         V,                   1,                   -1
-		UAZ_27722_mchs_doors_cargo1,                                           V,                   1,                   -1
-		UAZ_27722_mchs_doors_trunk,                                            V,                   1,                   -1
-		UAZ_27722_mchs_doors_hood,                                             V,                   1,                   -1
-		UAZ_27722_doors_driver_ambulancia,                                     V,                   1,                   -1
-		UAZ_27722_doors_codriver_ambulancia,                                   V,                   1,                   -1
-		UAZ_27722_doors_cargo1_ambulancia,                                     V,                   1,                   -1
-		UAZ_27722_doors_trunk_ambulancia,                                      V,                   1,                   -1
-		UAZ_27722_doors_hood_ambulancia,                                       V,                   1,                   -1
-	<Category>IJ_2125_Kombi
-		IJ_2125_Kombi,                                                         V,                   1,                   -1
-		IJ_2125_Kombi_beg,                                                     V,                   1,                   -1
-		IJ_2125_Kombi_green,                                                   V,                   1,                   -1
-		IJ_2125_Kombi_orange,                                                  V,                   1,                   -1
-		IJ_2125_Kombi_red,                                                     V,                   1,                   -1
-		IJ_2125_Kombi_wheel,                                                   V,                   1,                   -1
-		IJ_2125_Kombi_doors_driver,                                            V,                   1,                   -1
-		IJ_2125_Kombi_doors_codriver,                                          V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo1,                                            V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo2,                                            V,                   1,                   -1
-		IJ_2125_Kombi_doors_trunk,                                             V,                   1,                   -1
-		IJ_2125_Kombi_doors_hood,                                              V,                   1,                   -1
-		IJ_2125_Kombi_doors_driver_beg,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_codriver_beg,                                      V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo1_beg,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo2_beg,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_hood_beg,                                          V,                   1,                   -1
-		IJ_2125_Kombi_doors_trunk_beg,                                         V,                   1,                   -1
-		IJ_2125_Kombi_doors_driver_green,                                      V,                   1,                   -1
-		IJ_2125_Kombi_doors_codriver_green,                                    V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo1_green,                                      V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo2_green,                                      V,                   1,                   -1
-		IJ_2125_Kombi_doors_hood_green,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_trunk_green,                                       V,                   1,                   -1
-		IJ_2125_Kombi_doors_driver_orange,                                     V,                   1,                   -1
-		IJ_2125_Kombi_doors_codriver_orange,                                   V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo1_orange,                                     V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo2_orange,                                     V,                   1,                   -1
-		IJ_2125_Kombi_doors_hood_orange,                                       V,                   1,                   -1
-		IJ_2125_Kombi_doors_trunk_orange,                                      V,                   1,                   -1
-		IJ_2125_Kombi_doors_driver_red,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_codriver_red,                                      V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo1_red,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_cargo2_red,                                        V,                   1,                   -1
-		IJ_2125_Kombi_doors_hood_red,                                          V,                   1,                   -1
-		IJ_2125_Kombi_doors_trunk_red,                                         V,                   1,                   -1
-	<Category>GAZ_M20
-		GAZ_M20,                                                               V,                   1,                   -1
-		GAZ_M20_white,                                                         V,                   1,                   -1
-		GAZ_M20_green,                                                         V,                   1,                   -1
-		GAZ_M20_black,                                                         V,                   1,                   -1
-		GAZ_M20_red,                                                           V,                   1,                   -1
-		GAZ_M20_blue,                                                          V,                   1,                   -1
-		GAZ_M20_wheel,                                                         V,                   1,                   -1
-		GAZ_M20_doors_driver,                                                  V,                   1,                   -1
-		GAZ_M20_doors_codriver,                                                V,                   1,                   -1
-		GAZ_M20_doors_cargo1,                                                  V,                   1,                   -1
-		GAZ_M20_doors_cargo2,                                                  V,                   1,                   -1
-		GAZ_M20_doors_trunk,                                                   V,                   1,                   -1
-		GAZ_M20_doors_hood,                                                    V,                   1,                   -1
-		GAZ_M20_doors_driver_white,                                            V,                   1,                   -1
-		GAZ_M20_doors_codriver_white,                                          V,                   1,                   -1
-		GAZ_M20_doors_cargo1_white,                                            V,                   1,                   -1
-		GAZ_M20_doors_cargo2_white,                                            V,                   1,                   -1
-		GAZ_M20_doors_hood_white,                                              V,                   1,                   -1
-		GAZ_M20_doors_trunk_white,                                             V,                   1,                   -1
-		GAZ_M20_doors_driver_green,                                            V,                   1,                   -1
-		GAZ_M20_doors_codriver_green,                                          V,                   1,                   -1
-		GAZ_M20_doors_cargo1_green,                                            V,                   1,                   -1
-		GAZ_M20_doors_cargo2_green,                                            V,                   1,                   -1
-		GAZ_M20_doors_hood_green,                                              V,                   1,                   -1
-		GAZ_M20_doors_trunk_green,                                             V,                   1,                   -1
-		GAZ_M20_doors_driver_black,                                            V,                   1,                   -1
-		GAZ_M20_doors_codriver_black,                                          V,                   1,                   -1
-		GAZ_M20_doors_cargo1_black,                                            V,                   1,                   -1
-		GAZ_M20_doors_cargo2_black,                                            V,                   1,                   -1
-		GAZ_M20_doors_hood_black,                                              V,                   1,                   -1
-		GAZ_M20_doors_trunk_black,                                             V,                   1,                   -1
-		GAZ_M20_doors_driver_red,                                              V,                   1,                   -1
-		GAZ_M20_doors_codriver_red,                                            V,                   1,                   -1
-		GAZ_M20_doors_cargo1_red,                                              V,                   1,                   -1
-		GAZ_M20_doors_cargo2_red,                                              V,                   1,                   -1
-		GAZ_M20_oors_hood_red,                                                 V,                   1,                   -1
-		GAZ_M20_doors_trunk_red,                                               V,                   1,                   -1
-		GAZ_M20_doors_driver_blue,                                             V,                   1,                   -1
-		GAZ_M20_doors_codriver_blue,                                           V,                   1,                   -1
-		GAZ_M20_doors_cargo1_blue,                                             V,                   1,                   -1
-		GAZ_M20_doors_cargo2_blue,                                             V,                   1,                   -1
-		GAZ_M20_oors_hood_blue,                                                V,                   1,                   -1
-		GAZ_M20_doors_trunk_blue,                                              V,                   1,                   -1
-	<Category>GAZ_3110_volga
-		GAZ_3110_volga,                                                        V,                   1,                   -1
-		GAZ_3110_volga_taxi,                                                   V,                   1,                   -1
-		GAZ_3110_volga_white,                                                  V,                   1,                   -1
-		GAZ_3110_volga_black,                                                  V,                   1,                   -1
-		GAZ_3110_volga_wheel,                                                  V,                   1,                   -1
-		GAZ_3110_volga_doors_driver,                                           V,                   1,                   -1
-		GAZ_3110_volga_doors_codriver,                                         V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo1,                                           V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo2,                                           V,                   1,                   -1
-		GAZ_3110_volga__doors_trunk,                                           V,                   1,                   -1
-		GAZ_3110_volga__doors_hood,                                            V,                   1,                   -1
-		GAZ_3110_volga_doors_driver_white,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_codriver_white,                                   V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo1_white,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo2_white,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_hood_white,                                       V,                   1,                   -1
-		GAZ_3110_volga_doors_trunk_white,                                      V,                   1,                   -1
-		GAZ_3110_volga_taxi_doors_driver,                                      V,                   1,                   -1
-		GAZ_3110_volga_taxi_doors_codriver,                                    V,                   1,                   -1
-		GAZ_3110_volga_taxi_doors_cargo1,                                      V,                   1,                   -1
-		GAZ_3110_volga_taxi_doors_cargo2,                                      V,                   1,                   -1
-		GAZ_3110_volga_taxi_doors_hood,                                        V,                   1,                   -1
-		GAZ_3110_volga_taxi_doors_trunk,                                       V,                   1,                   -1
-		GAZ_3110_volga_doors_driver_white,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_codriver_white,                                   V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo1_white,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo2_white,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_hood_white,                                       V,                   1,                   -1
-		GAZ_3110_volga_doors_trunk_white,                                      V,                   1,                   -1
-		GAZ_3110_volga_doors_driver_black,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_codriver_black,                                   V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo1_black,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_cargo2_black,                                     V,                   1,                   -1
-		GAZ_3110_volga_doors_hood_black,                                       V,                   1,                   -1
-		GAZ_3110_volga_doors_trunk_black,                                      V,                   1,                   -1
-	<Category>Willys_MB
-		Willys_MB,                                                             V,                   1,                  -1
-		Willys_MB_wheel,                                                       V,                   1,                  -1
-		Willys_MB_doors_hood,                                                  V,                   1,                  -1
-	<Category>ZIL_131
-		ZIL_131,                                                               V,                   1,                   -1
-		ZIL_131_tent,                                                          V,                   1,                   -1
-		ZIL_131_Wheel,                                                         V,                   1,                   -1
-		ZIL_131_doors_driver,                                                  V,                   1,                   -1
-		ZIL_131_doors_codriver,                                                V,                   1,                   -1
-		ZIL_131_doors_trunk,                                                   V,                   1,                   -1
-	<Category>UAZ_3962
-		UAZ_3962,                                                              V,                   1,                   -1
-		UAZ_3962_green,                                                        V,                   1,                   -1
-		UAZ_3962_MCHS,                                                         V,                   1,                   -1
-		UAZ_3962_VAI,                                                          V,                   1,                   -1
-		UAZ_3962_wheel,                                                        V,                   1,                   -1
-		UAZ_3962_doors_driver,                                                 V,                   1,                   -1
-		UAZ_3962_doors_codriver,                                               V,                   1,                   -1
-		UAZ_3962_doors_cargo1,                                                 V,                   1,                   -1
-		UAZ_3962_doors_trunk,                                                  V,                   1,                   -1
-		UAZ_3962_doors_driver_green,                                           V,                   1,                   -1
-		UAZ_3962_doors_codriver_green,                                         V,                   1,                   -1
-		UAZ_3962_doors_cargo1_green,                                           V,                   1,                   -1
-		UAZ_3962_doors_trunk_green,                                            V,                   1,                   -1
-		UAZ_3962_doors_driver_MCHS,                                            V,                   1,                   -1
-		UAZ_3962_doors_codriver_MCHS,                                          V,                   1,                   -1
-		UAZ_3962_doors_cargo1_MCHS,                                            V,                   1,                   -1
-		UAZ_3962_doors_trunk_MCHS,                                             V,                   1,                   -1
-		UAZ_3962_doors_driver_VAI,                                             V,                   1,                   -1
-		UAZ_3962_doors_codriver_VAI,                                           V,                   1,                   -1
-		UAZ_3962_doors_cargo1_VAI,                                             V,                   1,                   -1
-		UAZ_3962_doors_trunk_VAI,                                              V,                   1,                   -1
-	<Category>GAZ_66
-		GAZ_66,                                                                V,                   1,                   -1
-		GAZ_66_camo,                                                           V,                   1,                   -1
-		GAZ_66_zima_camo,                                                      V,                   1,                   -1
-		GAZ_66_kuzov,                                                          V,                   1,                   -1
-		GAZ_66_kuzov_camo,                                                     V,                   1,                   -1
-		GAZ_66_kuzov_zima_camo,                                                V,                   1,                   -1
-		GAZ_66_Wheel,                                                          V,                   1,                   -1
-		GAZ_66_doors_driver,                                                   V,                   1,                   -1
-		GAZ_66_doors_driver_camo,                                              V,                   1,                   -1
-		GAZ_66_doors_driver_zima_camo,                                         V,                   1,                   -1
-		GAZ_66_doors_codriver,                                                 V,                   1,                   -1
-		GAZ_66_doors_codriver_camo,                                            V,                   1,                   -1
-		GAZ_66_doors_codriver_zima_camo,                                       V,                   1,                   -1
-		GAZ_66_doors_trunk,                                                    V,                   1,                   -1
-	<Category>PAZ_672
-		PAZ_672,                                                               V,                   1,                   -1
-		PAZ_672_orange,                                                        V,                   1,                   -1
-		PAZ_672_wheel,                                                         V,                   1,                   -1
-		PAZ_672_WheelDouble,                                                   V,                   1,                   -1
-		PAZ_672_doors_driver,                                                  V,                   1,                   -1
-		PAZ_672_doors_codriver,                                                V,                   1,                   -1
-		PAZ_672_doors_driver_orang,                                            V,                   1,                   -1
-		PAZ_672_doors_codriver_orang,                                          V,                   1,                   -1
-		PAZ_672_doors_hood,                                                    V,                   1,                   -1
-	<Category>BTR_80
-		BTR_80_P,                                                                V,                   1,                   -1
-		BTR_80_Wheel,                                                          	 V,                   1,                   -1
-		BTR_80_doors_driver,                                                   	 V,                   1,                   -1
-		BTR_80_doors_codriver,                                                 	 V,                   1,                   -1
-		BTR_80_doors_cargo1,                                                   	 V,                   1,                   -1
-		BTR_80_doors_cargo2,                                                   	 V,                   1,                   -1
-		BTR_80_doors_cargo3,                                                   	 V,                   1,                   -1
-		BTR_80_doors_cargo4,                                                   	 V,                   1,                   -1
-	<Category>LUAZ_969
-		LUAZ_969,                                                              V,                   1,                   -1
-		LUAZ_969_green,                                                        V,                   1,                   -1
-		LUAZ_969_blue,                                                         V,                   1,                   -1
-		LUAZ_969_orang,                                                        V,                   1,                   -1
-		LUAZ_969_wheel,                                                        V,                   1,                   -1
-		LUAZ_969_doors_driver,                                                 V,                   1,                   -1
-		LUAZ_969_doors_codriver,                                               V,                   1,                   -1
-		LUAZ_969_doors_trunk,                                                  V,                   1,                   -1
-		LUAZ_969_doors_driver_green,                                           V,                   1,                   -1
-		LUAZ_969_doors_codriver_green,                                         V,                   1,                   -1
-		LUAZ_969_doors_trunk_green,                                            V,                   1,                   -1
-		LUAZ_969_doors_driver_blue,                                            V,                   1,                   -1
-		LUAZ_969_doors_codriver_blue,                                          V,                   1,                   -1
-		LUAZ_969_doors_trunk_blue,                                             V,                   1,                   -1
-		LUAZ_969_doors_driver_orang,                                           V,                   1,                   -1
-		LUAZ_969_doors_codriver_orang,                                         V,                   1,                   -1
-		LUAZ_969_doors_trunk_orang,                                            V,                   1,                   -1
-	<Category>URAL_375_1964
-		URAL_375_1964,                                                         V,                   1,                   200000
-		URAL_375_1964_Wheel,                                                   V,                   1,                   120
-		URAL_375_1964_doors_driver,                                            V,                   1,                   160
-		URAL_375_1964_doors_codriver,                                          V,                   1,                   160
-		URAL_375_1964_doors_hood,                                              V,                   1,                   100
-	
 	<Category>Keys
 		VehicleKeyDuplicate,                                                   K,                   1,                   1
 		VehicleKeyLost,                                                        KL,                  1,                   1
@@ -4207,7 +3825,7 @@
 		IFK_MilitaryGear_GhillieBushrag_Yeger,                                 *,                   500,                 -1
 		IFK_MilitaryGear_GhillieTop_Yeger,                                     *,                   500,                 -1
 		IFK_MilitaryGear_GhillieSuit_Yeger,                                    *,                   500,                 -1
-<Trader>Base-Building Trader #0 // ID=22
+<Trader>Base-Building  // ID=22
 	<Category>Military Gear | Large Tents
 		IFK_MilitaryGear_LargeTent_ATACS,                                      *,                   500,                 50
 		IFK_MilitaryGear_LargeTent_CADPAT,                                     *,                   500,                 50

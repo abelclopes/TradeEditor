@@ -22,4 +22,9 @@ public class Trader
     {
         Categoria.Add(categoria);
     }
+
+    public void CategoriaAddRange(List<Categoria> changegCategiria)
+    {
+        Categoria.AddRange(changegCategiria);
+    }
 }
