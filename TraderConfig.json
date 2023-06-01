@@ -9,26 +9,6 @@
         "TradeTitulo": "Consume Trader // ID=0",
         "Categoria": [
             {
-                "Id": 1,
-                "Titulo": "Drinks",
-                "CategoriaItem": []
-            },
-            {
-                "Id": 2,
-                "Titulo": "Medical Supplies",
-                "CategoriaItem": []
-            },
-            {
-                "Id": 3,
-                "Titulo": "Medications",
-                "CategoriaItem": []
-            },
-            {
-                "Id": 4,
-                "Titulo": "Radioativos",
-                "CategoriaItem": []
-            },
-            {
                 "Id": 0,
                 "Titulo": "Packaged Food",
                 "CategoriaItem": [
@@ -91,6 +71,264 @@
                         "Quantidade": "*",
                         "ValorPlayerCompra": "1000",
                         "ValorPlayerVenda": "20"
+                    }
+                ]
+            },
+            {
+                "Id": 1,
+                "Titulo": "Drinks",
+                "CategoriaItem": [
+                    {
+                        "Item": "SodaCan_Cola",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "8"
+                    },
+                    {
+                        "Item": "SodaCan_Kvass",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "8"
+                    },
+                    {
+                        "Item": "SodaCan_Pipsi",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "8"
+                    },
+                    {
+                        "Item": "SodaCan_Spite",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "8"
+                    },
+                    {
+                        "Item": "WaterBottle",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "10"
+                    },
+                    {
+                        "Item": "Canteen",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "15"
+                    },
+                    {
+                        "Item": "Vodka",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "25"
+                    }
+                ]
+            },
+            {
+                "Id": 2,
+                "Titulo": "Medical Supplies",
+                "CategoriaItem": [
+                    {
+                        "Item": "BandageDressing",
+                        "Quantidade": "2",
+                        "ValorPlayerCompra": "80",
+                        "ValorPlayerVenda": "8"
+                    },
+                    {
+                        "Item": "BloodTestKit",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "200",
+                        "ValorPlayerVenda": "20"
+                    },
+                    {
+                        "Item": "InjectionVial",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "200",
+                        "ValorPlayerVenda": "20"
+                    },
+                    {
+                        "Item": "Thermometer",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "300",
+                        "ValorPlayerVenda": "30"
+                    },
+                    {
+                        "Item": "DisinfectantSpray",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "400",
+                        "ValorPlayerVenda": "40"
+                    },
+                    {
+                        "Item": "Syringe",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "100",
+                        "ValorPlayerVenda": "10"
+                    },
+                    {
+                        "Item": "Heatpack",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "50",
+                        "ValorPlayerVenda": "5"
+                    },
+                    {
+                        "Item": "StartKitIV",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "300",
+                        "ValorPlayerVenda": "30"
+                    },
+                    {
+                        "Item": "SalineBag",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "300",
+                        "ValorPlayerVenda": "30"
+                    },
+                    {
+                        "Item": "BloodBagEmpty",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "100",
+                        "ValorPlayerVenda": "10"
+                    },
+                    {
+                        "Item": "FirstAidKit",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "100"
+                    },
+                    {
+                        "Item": "Defibrillator",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "100"
+                    }
+                ]
+            },
+            {
+                "Id": 3,
+                "Titulo": "Medications",
+                "CategoriaItem": [
+                    {
+                        "Item": "CharcoalTablets",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "500",
+                        "ValorPlayerVenda": "50"
+                    },
+                    {
+                        "Item": "DisinfectantAlcohol",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "400",
+                        "ValorPlayerVenda": "40"
+                    },
+                    {
+                        "Item": "VitaminBottle",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "500",
+                        "ValorPlayerVenda": "50"
+                    },
+                    {
+                        "Item": "TetracyclineAntibiotics",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "500",
+                        "ValorPlayerVenda": "50"
+                    },
+                    {
+                        "Item": "PainkillerTablets",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "500",
+                        "ValorPlayerVenda": "50"
+                    },
+                    {
+                        "Item": "Epinephrine",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "500",
+                        "ValorPlayerVenda": "50"
+                    },
+                    {
+                        "Item": "Morphine",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "500",
+                        "ValorPlayerVenda": "50"
+                    },
+                    {
+                        "Item": "IodineTincture",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "1000",
+                        "ValorPlayerVenda": "100"
+                    }
+                ]
+            },
+            {
+                "Id": 4,
+                "Titulo": "Radioativos",
+                "CategoriaItem": [
+                    {
+                        "Item": "NBCGlovesGray",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCBootsGray",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCPantsGray",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCJacketGray",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCHoodGray",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCGlovesYellow",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCBootsYellow",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCPantsYellow",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCJacketYellow",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "NBCHoodYellow",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "GP5GasMask",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
+                    },
+                    {
+                        "Item": "GasMask_Filter",
+                        "Quantidade": "*",
+                        "ValorPlayerCompra": "3000",
+                        "ValorPlayerVenda": "300"
                     }
                 ]
             }
