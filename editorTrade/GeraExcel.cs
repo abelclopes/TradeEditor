@@ -15,7 +15,7 @@ public class GeraExcel
         var itemLine = "".Split("");
         var tradeLine = 0;
 
-        using (var file = File.CreateText("./../.././../../TraderConfig.csv"))
+        using (var file = File.CreateText("./../.././../../TraderConfig4.csv"))
         {
             var catname = "";
             var i = 0;
@@ -43,6 +43,7 @@ public class GeraExcel
                         //Console.WriteLine($"CATEGORI NAME: {catname.Trim()}");
                     }
                 }
+               
                 if (!lineIsTrade && !lineIsCategoria)
                 {
                     var Item = line.Replace("\t", "").Split(",");
@@ -53,13 +54,21 @@ public class GeraExcel
                         ValorPlayerCompra = Item[2].Trim().ToString(),
                         ValorPlayerVenda = Item[3].Trim().ToString(),
                     };
-                    if (traders != null)
+
+                    if (traders != null && !string.IsNullOrEmpty(tradename))
                     {
+                        if (i == 4662)
+                        {
+                            break;
+                        }
+
+                        //                        Console.WriteLine($"CATEGORI NAME: {catname.Trim()}");
                         var tradeatual = traders?.FirstOrDefault(x => x.TradeTitulo == tradename);
                         var catAtual = tradeatual?.Categoria.FirstOrDefault(x => x.Titulo == catname);
                         var saveLine = $"{tradeatual?.TradeTitulo};{catAtual?.Titulo};{newItemCat.Item};{newItemCat.Quantidade};{newItemCat.ValorPlayerCompra};{newItemCat.ValorPlayerVenda};";
                         file.WriteLine(saveLine);
-                        //Console.WriteLine($"READ :{saveLine}");
+                        Console.WriteLine($"READ :{saveLine}");
+                        i++;
 
                     }
 
