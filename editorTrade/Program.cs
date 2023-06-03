@@ -2,8 +2,5 @@
 using System.Text.RegularExpressions;
 
 var loadTrade = new LoadTrade();
-var trades = await loadTrade.LerTradeConfig("./../.././../../TraderConfig.txt");
+await loadTrade.LerTradeConfig("./../.././../../TraderConfig.txt");
 
-var gerar = new GeraExcel(trades.tradeConfig);
-
-gerar.GerarCSV(trades.traders);
